@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yogeshbhsind-netizen.github.io/-Kathmandu-Sonali-kukhura-farm-/sitemap.xml
